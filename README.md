@@ -2,18 +2,19 @@
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 </p>
 
-```python
-class Me:
-  name:str = 'Sulav Maharjan'
-  languages: list[str] = ['Python',]
-  database: str = 'Postgresql'
-  frameworks: list[str] = ['Django', 'Flask', 'FastAPI',]
-  want_to_learn: list[dict] = [{'language': 'Javascript', 'goal': 'Backend and little bit of frontend',},
-                                {'language': 'GO', 'goal': 'Backend and learn compiled language'},]
-                                
-  def __repr__(self) -> str:
-    return f'{self.__class__.__name__}(name={self.name}, lanugages: {self.languages})'
-```
+## Skills
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Manjaro-109989?style=for-the-badge&logo=manjaro&logoColor=white)
+![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![](https://img.shields.io/badge/Django-109989?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Networks
 <a align='left' href='mailto:smhrzn@protonmail.com'>
   <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'>
 </a>
