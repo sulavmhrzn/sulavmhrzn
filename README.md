@@ -24,3 +24,5 @@
 <a align='left' href='https://www.linkedin.com/in/sulav-maharjan-5ba47318a/'>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
