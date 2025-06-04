@@ -11,8 +11,6 @@ Sulav Maharjan
 ⚡ Express.js
 🧩 Django REST Framework
 🟢 Vue.js / Nuxt
-🚀 NestJS (currently learning it, send help)
-
 ```
 
 ```zsh
@@ -29,12 +27,11 @@ Sulav Maharjan
 Full-stack developer building tools that *actually* work.
 I craft APIs like handmade pasta – clean, robust, and served with just the right amount of spice.
 Typescript in the frontend, Django or Node in the back, crying softly in the middle.
-Currently wrestling with NestJS and pretending to understand dependency injection.
 ```
 
 ```zsh
 ➜ ~ uname -r
-readme-0.0.1-dev
+readme-0.0.2-dev
 ```
 
 ```zsh
