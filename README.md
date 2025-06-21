@@ -10,7 +10,7 @@ Sulav Maharjan
 🌱 Django
 ⚡ Express.js
 🧩 Django REST Framework
-🟢 Vue.js / Nuxt
+🟢 React / Next
 ```
 
 ```zsh
@@ -23,15 +23,8 @@ Sulav Maharjan
 ```
 
 ```zsh
-➜ ~ about
-Full-stack developer building tools that *actually* work.
-I craft APIs like handmade pasta – clean, robust, and served with just the right amount of spice.
-Typescript in the frontend, Django or Node in the back, crying softly in the middle.
-```
-
-```zsh
 ➜ ~ uname -r
-readme-0.0.2-dev
+readme-0.0.3-dev
 ```
 
 ```zsh
